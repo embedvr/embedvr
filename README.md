@@ -3,7 +3,7 @@
 
 - My main project currently is [Bubblez.app](https://bubblez.app)
 
-- I’m currently learning **NodeJS, TypeScript, and ReactJS**
+- I’m currently learning **NodeJS, TypeScript, and ReactJS/NextJS**
 
 - Contact me via [Email](mailto:brydon@astolfo.co) or via Discord (embed#2752)
 
