@@ -3,7 +3,7 @@
 
 - My main project currently is [Bubblez.app](https://bubblez.app)
 
-- I’m currently learning **CF Workers / Pages, Rust, and SvelteJS**
+- I’m currently learning **CF Workers / Pages, Rust, and Svelte/SvelteKit**
 
 - Contact me via [Email](mailto:brydon@astolfo.co) or via Discord (embed#2752)
 
