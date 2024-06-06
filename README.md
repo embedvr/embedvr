@@ -6,7 +6,7 @@
 
 - My current stack is **[Cloudflare Workers](https://workers.cloudflare.com/) / [Pages](https://pages.cloudflare.com/)**, **[SvelteKit](https://kit.svelte.dev/)**, **[tRPC](https://trpc.io/)**, **[Cloudflare D1](https://www.cloudflare.com/developer-platform/d1/)**, **[DrizzleORM](https://orm.drizzle.team/)**, **[zod](https://zod.dev/)**.
 
-- Contact me via Discord (embed#2752) or [Email](mailto:me@addi.lol)
+- Contact me via Discord (embd) or [Email](mailto:me@addi.lol)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/476641014841475084)](https://discord.com/users/476641014841475084)
 
